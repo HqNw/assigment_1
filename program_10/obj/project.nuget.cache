@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vPV+EKmLIwaDUwmqxuWYNSmwg8YLyYFJ9/f//T6PN7IgUKAg+NODie78CgtlD64932Knh9s+ifsf7ZUkewJbZg==",
+  "success": true,
+  "projectFilePath": "/home/hqnw/Desktop/university/CSC115 - Introduction to Computer Systems/projects/assigment/assigment_1/program_10/program_10.csproj",
+  "expectedPackageFiles": [
+    "/home/hqnw/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

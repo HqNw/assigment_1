@@ -1,0 +1,15 @@
+/home/hqnw/Desktop/university/CSC115 - Introduction to Computer Systems/projects/assigment/assigment_1/program_3/bin/Debug/net6.0/program_3
+/home/hqnw/Desktop/university/CSC115 - Introduction to Computer Systems/projects/assigment/assigment_1/program_3/bin/Debug/net6.0/program_3.deps.json
+/home/hqnw/Desktop/university/CSC115 - Introduction to Computer Systems/projects/assigment/assigment_1/program_3/bin/Debug/net6.0/program_3.runtimeconfig.json
+/home/hqnw/Desktop/university/CSC115 - Introduction to Computer Systems/projects/assigment/assigment_1/program_3/bin/Debug/net6.0/program_3.dll
+/home/hqnw/Desktop/university/CSC115 - Introduction to Computer Systems/projects/assigment/assigment_1/program_3/bin/Debug/net6.0/ref/program_3.dll
+/home/hqnw/Desktop/university/CSC115 - Introduction to Computer Systems/projects/assigment/assigment_1/program_3/bin/Debug/net6.0/program_3.pdb
+/home/hqnw/Desktop/university/CSC115 - Introduction to Computer Systems/projects/assigment/assigment_1/program_3/obj/Debug/net6.0/program_3.csproj.AssemblyReference.cache
+/home/hqnw/Desktop/university/CSC115 - Introduction to Computer Systems/projects/assigment/assigment_1/program_3/obj/Debug/net6.0/program_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/hqnw/Desktop/university/CSC115 - Introduction to Computer Systems/projects/assigment/assigment_1/program_3/obj/Debug/net6.0/program_3.AssemblyInfoInputs.cache
+/home/hqnw/Desktop/university/CSC115 - Introduction to Computer Systems/projects/assigment/assigment_1/program_3/obj/Debug/net6.0/program_3.AssemblyInfo.cs
+/home/hqnw/Desktop/university/CSC115 - Introduction to Computer Systems/projects/assigment/assigment_1/program_3/obj/Debug/net6.0/program_3.csproj.CoreCompileInputs.cache
+/home/hqnw/Desktop/university/CSC115 - Introduction to Computer Systems/projects/assigment/assigment_1/program_3/obj/Debug/net6.0/program_3.dll
+/home/hqnw/Desktop/university/CSC115 - Introduction to Computer Systems/projects/assigment/assigment_1/program_3/obj/Debug/net6.0/ref/program_3.dll
+/home/hqnw/Desktop/university/CSC115 - Introduction to Computer Systems/projects/assigment/assigment_1/program_3/obj/Debug/net6.0/program_3.pdb
+/home/hqnw/Desktop/university/CSC115 - Introduction to Computer Systems/projects/assigment/assigment_1/program_3/obj/Debug/net6.0/program_3.genruntimeconfig.cache
